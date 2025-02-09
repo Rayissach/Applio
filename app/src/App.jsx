@@ -1,4 +1,4 @@
-import Login from './components/Login'
+import Login from './components/SupaLogin'
 import './App.css'
 
 function App() {
