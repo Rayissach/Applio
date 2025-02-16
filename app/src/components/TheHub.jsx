@@ -5,10 +5,10 @@ export default function TheHub() {
     return(
         <div>
             <ul>
-                <li>GitHub</li>
-                <li>LinkedIn</li>
+                <li href={'https://github.com/'}>GitHub</li>
+                <li href={'https://linkedin.com/'}>LinkedIn</li>
                 <li>Neetcode</li>
-                <li>greatfrontend</li>
+                <li href={'https://www.greatfrontend.com/questions/react-interview-questions'}>greatfrontend</li>
             </ul>
         </div>
     )
