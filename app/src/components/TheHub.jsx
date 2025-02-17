@@ -7,7 +7,7 @@ export default function TheHub() {
             <ul>
                 <li href={'https://github.com/'}>GitHub</li>
                 <li href={'https://linkedin.com/'}>LinkedIn</li>
-                <li>Neetcode</li>
+                <li heef={'https://neetcode.io/'}>Neetcode</li>
                 <li href={'https://www.greatfrontend.com/questions/react-interview-questions'}>greatfrontend</li>
             </ul>
         </div>
